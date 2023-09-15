@@ -35,11 +35,11 @@ Pickle
 
   # Observations & Future scope
 
-* While exploring we found women had the largest share in types of clothes while clothes for respective seasons has an almost similar share
+* While exploring we found women had the largest share in types of clothing while clothes for respective seasons had an almost similar share
 
 * The dataset contains fashion items which belong to the time period of 2010-18 with the majority of items from the year 2012
  
-* Building our own CNN model was a challenge and while building we experimented with dropout and learning rates which produced different outputs. The best solution came with a dropout of 0.5 and a learning rate of 0.001
+* Building our own CNN model was a challenge and while building we experimented with dropout and learning rates which produced different outputs. The best solution came with a learning rate of 0.001
  
 * To reduce the processing time we converted the images into vectors and stored them in numpy file which reduced our output time by 70%
  
