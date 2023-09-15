@@ -1,7 +1,8 @@
 # Fashion_Recommendation_System
 
 # Objective
-Our project aims to learn and implement Deep Learning CNN Architecture as well as Image Processing. We have decided to build a Fashion Recommendation system which provides five similar images with respect to the given input image. We will build our model instead of using a Pre-Trained model like Resnet50, or VG16.  
+Our project aims to learn and implement Deep Learning CNN Architecture as well as Image Processing. We have decided to build a Fashion Recommendation system which provides five similar images with respect to the given input image. We will build our model instead of using a Pre-Trained model like Resnet50, or VG16. 
+
 To handle the response time we will convert our images into vectors and extract their features. later on, we save the model and extracted features to reduce processing time and add the features of our input image to the dataset. After calculating similarity scores we provide recommendations.
 
 # Libraries
